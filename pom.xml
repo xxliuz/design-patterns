@@ -20,6 +20,9 @@
     <modules>
         <module>singleton</module>
         <module>factory</module>
+        <module>adapter</module>
+        <module>abstract-factory</module>
+        <module>factory-method</module>
     </modules>
 	<dependencies>
 		<dependency>
