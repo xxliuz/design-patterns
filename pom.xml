@@ -25,6 +25,7 @@
         <module>factory-method</module>
         <module>bridge</module>
         <module>builder</module>
+        <module>memento</module>
     </modules>
 	<dependencies>
 		<dependency>
