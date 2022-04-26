@@ -24,6 +24,7 @@
         <module>abstract-factory</module>
         <module>factory-method</module>
         <module>bridge</module>
+        <module>builder</module>
     </modules>
 	<dependencies>
 		<dependency>
