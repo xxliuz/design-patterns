@@ -23,6 +23,7 @@
         <module>adapter</module>
         <module>abstract-factory</module>
         <module>factory-method</module>
+        <module>bridge</module>
     </modules>
 	<dependencies>
 		<dependency>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+    <!--RefinedAbstraction-->
+    <className>com.zhou.bridge.image.JPGImage</className>
+    <className>com.zhou.bridge.image.PNGImage</className>
+    <className>com.zhou.bridge.image.GIFImage</className>
+    <className>com.zhou.bridge.image.BMPImage</className>
+    <!--ConcreteImplementor-->
+    <className>com.zhou.bridge.osImp.WindowsImp</className>
+    <className>com.zhou.bridge.osImp.UnixImp</className>
+    <className>com.zhou.bridge.osImp.LinuxImp</className>
+</config>
